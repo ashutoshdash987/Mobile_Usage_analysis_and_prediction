@@ -1,4 +1,4 @@
-<h2 align='center'> About This Project : </h2>
+<h2 align='center'> About The Project : </h2>
 <p>
   Data analysis project using Python on an app usage dataset, analyzing notifications and apps opened with graphs and employing polynomial regression model for usage prediction based on notifications.
 </p>
